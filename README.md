@@ -46,7 +46,7 @@ Je m'appelle Antoine, et je suis actuellement Développeur Java (+ 3 ans d'expé
 
 ### 📫 Comment me joindre ? me parler ? me suivre ?
 * [gantoin@pm.me](mailto:gantoin@pm.me)
-* 
+
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gant0in)](https://twitter.com/gant0in)
 
 
