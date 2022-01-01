@@ -1,3 +1,5 @@
+## 🇬🇧 1 commit per day in 2022 / 🇫🇷 1 commit par jour en 2022
+
 ### Hi there 👋
 
 ### Who am I?
