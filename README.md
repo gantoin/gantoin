@@ -1,9 +1,14 @@
-## 🇬🇧 1 commit per day in 2022 / 🇫🇷 1 commit par jour en 2022
+
+![Gantoin's github stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark)
+
+![Gantoin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
+
+##### 🇬🇧 1 commit per day in 2022 / 🇫🇷 1 commit par jour en 2022
 
 ### Hi there 👋
 
 ### Who am I?
-My name is Antoine, I'm a Java Backend developer but I like to play with other technologies.
+My name is Antoine, I'm a `Java` Backend developer but I like to play with other technologies.
 
 🌱 More informations about myself on [my personal website](https://www.gantoin.online/).
 
