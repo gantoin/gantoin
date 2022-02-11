@@ -3,8 +3,6 @@
 
 ![Gantoin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
 
-##### 🇬🇧 1 commit per day in 2022 / 🇫🇷 1 commit par jour en 2022
-
 ### Hi there 👋
 
 ### Who am I?
