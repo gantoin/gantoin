@@ -6,12 +6,7 @@ I am @gantoin, currently a freelance developer. I am very keen to learn new tech
 
 💬 Ask me anything, I will be more than happy to help.
 
-<span align="center">
-
-![Gantoin's github stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark)
-![Gantoin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
-
-</span>
+![Gantoin's github stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark) ![Gantoin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
 
 Développeur Java ☕️
 
