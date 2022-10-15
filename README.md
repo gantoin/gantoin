@@ -18,8 +18,6 @@ Work from home 🏠
 
 ✉️ [gantoin@pm.me](mailto:gantoin@pm.me)
 
-🌐 [gantoin.online](https://www.gantoin.online/)
-
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gant0in)](https://twitter.com/gant0in)
 
 
