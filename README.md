@@ -1,23 +1,58 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%231e90ff&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+gantoin.;You+can+call+me+Antoine!;I'm+a+programmer.)
+# Antoine Gauthier [@gantoin](https://github.com/gantoin) - freelance developer
+I'm Antoine from France, living between France 🇫🇷 and Ukraine 🇺🇦. I'm mainly experienced in Java back-end development and can do front-end with React, Angular, or Ext JS. I'm looking for challenging assignments in an exciting industry to implement my Java skills and improve my JavaScript skills.
 
-<h2>About me</h2>
+Contact me here: https://gantoin.webflow.io/contact
 
-I am @gantoin, currently a freelance developer. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.
+<!--
+**MikeCodeur/MikeCodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Actually:
 
-💬 Ask me anything, I will be more than happy to help.
+- 🌍 I’m currently working on my new [website](https://gantoin.webflow.io/)
+- ☕️ I’m currently learning Kotlin
+- 🐦 I use sometimes Twitter [here](https://twitter.com/gant0in)
+- 📫 Reach me by mail: [gantoin@pm.me](mailto:gantoin@pm.me)
 
-![Gantoin's github stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark) ![Gantoin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
 
-Java developer ☕️
+### Connect with me:
 
-Freelance 👨🏻‍💻
+[![img_contact](./img/globe-light.svg)](https://gantoin.webflow.io#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://gantoin.webflow.io#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/youtube-light.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrwgh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrw#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/gant0in#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/gant0in#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/antoine-gauthier-767218a9#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/antoine-gauthier-767218a9#gh-dark-mode-only)
 
-Work from home 🏠
+### Languages and Tools:
 
-🌱 Favorite technologies : Java 11, Spring, Hibernate, JPA, Apache Kafka, micro-services, docker
+[<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 
-✉️ [gantoin@pm.me](mailto:gantoin@pm.me)
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40gant0in)](https://twitter.com/gant0in)
+<br />
 
+### ✏️ My blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 🔥 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### ⭐ GitHub Stats
+
+![Gantoin's github stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark)
+
+![Gantoin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
 
