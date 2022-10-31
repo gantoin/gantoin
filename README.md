@@ -1,5 +1,7 @@
 # Antoine Gauthier [@gantoin](https://github.com/gantoin) - freelance developer
-I'm Antoine from France, living between France 🇫🇷 and Ukraine 🇺🇦. I'm mainly experienced in Java back-end development and can do front-end with React, Angular, or Ext JS. I'm looking for challenging assignments in an exciting industry to implement my Java skills and improve my JavaScript skills.
+I'm Antoine from France, living between Paris 🇫🇷 and Lviv 🇺🇦
+
+I'm mainly experienced in Java back-end development and can do front-end with React, Angular, or Ext JS. I'm looking for challenging assignments in an exciting industry to implement my Java skills and improve my JavaScript skills.
 
 Contact me here: https://gantoin.webflow.io/contact
 
