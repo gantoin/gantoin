@@ -19,7 +19,7 @@ Actually:
 [![img_contact](./img/globe-light.svg)](https://gantoin.webflow.io#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://gantoin.webflow.io#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrwgh-light-mode-only)
+[![img_contact](./img/youtube-light.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrw#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrw#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/gant0in#gh-light-mode-only)
