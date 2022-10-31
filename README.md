@@ -46,6 +46,7 @@ Actually:
 ### ✏️ My blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [☂ How to plug your Umbrel&#39;s Nextcloud into the official Nextcloud mobile app?](https://gantoin.webflow.io/posts/umbrel-nextcloud-mobile-app)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Recent GitHub Activity
