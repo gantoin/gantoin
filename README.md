@@ -52,11 +52,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MikeCodeur/MikeCodeur/pull/1) in [MikeCodeur/MikeCodeur](https://github.com/MikeCodeur/MikeCodeur)
-2. 🗣 Commented on [#196](https://github.com/agermanidis/autosub/issues/196) in [agermanidis/autosub](https://github.com/agermanidis/autosub)
-3. 🗣 Commented on [#2](https://github.com/QuentinWidlocher/telegram-to-twitter-bot/issues/2) in [QuentinWidlocher/telegram-to-twitter-bot](https://github.com/QuentinWidlocher/telegram-to-twitter-bot)
-4. 💪 Opened PR [#2](https://github.com/QuentinWidlocher/telegram-to-twitter-bot/pull/2) in [QuentinWidlocher/telegram-to-twitter-bot](https://github.com/QuentinWidlocher/telegram-to-twitter-bot)
-5. ❗️ Opened issue [#1](https://github.com/QuentinWidlocher/telegram-to-twitter-bot/issues/1) in [QuentinWidlocher/telegram-to-twitter-bot](https://github.com/QuentinWidlocher/telegram-to-twitter-bot)
+1. 🎉 Merged PR [#7](https://github.com/gantoin/5-ukrainian-words-per-day/pull/7) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
+2. 🎉 Merged PR [#7](https://github.com/gantoin/TwitchClip2Vertical/pull/7) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+3. 🎉 Merged PR [#15](https://github.com/gantoin/gantoin.astro/pull/15) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+4. 💪 Opened PR [#1](https://github.com/MikeCodeur/MikeCodeur/pull/1) in [MikeCodeur/MikeCodeur](https://github.com/MikeCodeur/MikeCodeur)
+5. 🗣 Commented on [#196](https://github.com/agermanidis/autosub/issues/196) in [agermanidis/autosub](https://github.com/agermanidis/autosub)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
