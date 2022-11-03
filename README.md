@@ -47,6 +47,7 @@ Actually:
 ### ✏️ My blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🎨 How I created a Twitter bot which paints like Van Gogh](https://gantoin.webflow.io/posts/a-bot-paints-like-van-gogh)
 - [🇫🇷 Oups ! J&#39;ai pushé l&#39;API key sur le repo public GitHub...](https://gantoin.webflow.io/posts/oups-jai-pushe-lapi-key-sur-le-repo-public-github)
 - [☂ How to plug your Umbrel&#39;s Nextcloud into the official Nextcloud mobile app?](https://gantoin.webflow.io/posts/umbrel-nextcloud-mobile-app)
 <!-- BLOG-POST-LIST:END -->
