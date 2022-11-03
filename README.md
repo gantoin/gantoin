@@ -53,11 +53,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/timvahlbrock/miniJavaParser/pull/1) in [timvahlbrock/miniJavaParser](https://github.com/timvahlbrock/miniJavaParser)
-2. 🎉 Merged PR [#6](https://github.com/gantoin/TwitchClip2Vertical/pull/6) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-3. 🎉 Merged PR [#23](https://github.com/gantoin/gantoin.astro/pull/23) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-4. 🎉 Merged PR [#17](https://github.com/gantoin/gantoin.astro/pull/17) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-5. 🎉 Merged PR [#7](https://github.com/gantoin/5-ukrainian-words-per-day/pull/7) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
+1. 🎉 Merged PR [#8](https://github.com/gantoin/quizzy.ua/pull/8) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
+2. 🎉 Merged PR [#13](https://github.com/gantoin/gantoin.astro/pull/13) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+3. 💪 Opened PR [#1](https://github.com/timvahlbrock/miniJavaParser/pull/1) in [timvahlbrock/miniJavaParser](https://github.com/timvahlbrock/miniJavaParser)
+4. 🎉 Merged PR [#6](https://github.com/gantoin/TwitchClip2Vertical/pull/6) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+5. 🎉 Merged PR [#23](https://github.com/gantoin/gantoin.astro/pull/23) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
