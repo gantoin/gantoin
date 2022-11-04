@@ -54,11 +54,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/gantoin/quizzy.ua/pull/8) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
-2. 🎉 Merged PR [#13](https://github.com/gantoin/gantoin.astro/pull/13) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-3. 💪 Opened PR [#1](https://github.com/timvahlbrock/miniJavaParser/pull/1) in [timvahlbrock/miniJavaParser](https://github.com/timvahlbrock/miniJavaParser)
-4. 🎉 Merged PR [#6](https://github.com/gantoin/TwitchClip2Vertical/pull/6) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-5. 🎉 Merged PR [#23](https://github.com/gantoin/gantoin.astro/pull/23) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+1. 🎉 Merged PR [#12](https://github.com/gantoin/gantoin.astro/pull/12) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+2. 🎉 Merged PR [#6](https://github.com/gantoin/bitchute-uploader/pull/6) in [gantoin/bitchute-uploader](https://github.com/gantoin/bitchute-uploader)
+3. 🎉 Merged PR [#8](https://github.com/gantoin/quizzy.ua/pull/8) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
+4. 🎉 Merged PR [#13](https://github.com/gantoin/gantoin.astro/pull/13) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+5. 💪 Opened PR [#1](https://github.com/timvahlbrock/miniJavaParser/pull/1) in [timvahlbrock/miniJavaParser](https://github.com/timvahlbrock/miniJavaParser)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
