@@ -54,11 +54,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/jalbrekt85/Redbubble-Bot/issues/2) in [jalbrekt85/Redbubble-Bot](https://github.com/jalbrekt85/Redbubble-Bot)
-2. 🎉 Merged PR [#7](https://github.com/gantoin/quizzy.ua/pull/7) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
-3. 🎉 Merged PR [#9](https://github.com/gantoin/5-ukrainian-words-per-day/pull/9) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
-4. 🎉 Merged PR [#12](https://github.com/gantoin/gantoin.astro/pull/12) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-5. 🎉 Merged PR [#6](https://github.com/gantoin/bitchute-uploader/pull/6) in [gantoin/bitchute-uploader](https://github.com/gantoin/bitchute-uploader)
+1. 🎉 Merged PR [#1](https://github.com/gantoin/code-with-quarkus/pull/1) in [gantoin/code-with-quarkus](https://github.com/gantoin/code-with-quarkus)
+2. 🎉 Merged PR [#2](https://github.com/gantoin/github-project-lines-counter/pull/2) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
+3. 🎉 Merged PR [#11](https://github.com/gantoin/9gag-to-videos/pull/11) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
+4. 🗣 Commented on [#2](https://github.com/jalbrekt85/Redbubble-Bot/issues/2) in [jalbrekt85/Redbubble-Bot](https://github.com/jalbrekt85/Redbubble-Bot)
+5. 🎉 Merged PR [#7](https://github.com/gantoin/quizzy.ua/pull/7) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
