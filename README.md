@@ -47,6 +47,7 @@ Actually:
 ### ✏️ My blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 I fully automatized a Youtube channel](https://gantoin.webflow.io/posts/i-fully-automatized-a-youtube-channel)
 - [🇫🇷 Aperçu de GitHub Code Search](https://gantoin.webflow.io/posts/apercu-de-github-code-search)
 - [🎨 How I created a Twitter bot which paints like Van Gogh](https://gantoin.webflow.io/posts/a-bot-paints-like-van-gogh)
 - [🇫🇷 Oups ! J&#39;ai pushé l&#39;API key sur le repo public GitHub...](https://gantoin.webflow.io/posts/oups-jai-pushe-lapi-key-sur-le-repo-public-github)
