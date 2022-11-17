@@ -56,11 +56,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/gantoin/github-project-lines-counter/pull/7) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
-2. 🎉 Merged PR [#31](https://github.com/gantoin/gantoin.astro/pull/31) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-3. 🎉 Merged PR [#30](https://github.com/gantoin/gantoin.astro/pull/30) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-4. 🎉 Merged PR [#28](https://github.com/gantoin/gantoin.astro/pull/28) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-5. 🎉 Merged PR [#22](https://github.com/gantoin/gantoin.astro/pull/22) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+1. 🎉 Merged PR [#5](https://github.com/gantoin/TwitchClip2Vertical/pull/5) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+2. 🎉 Merged PR [#32](https://github.com/gantoin/gantoin.astro/pull/32) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+3. 🎉 Merged PR [#7](https://github.com/gantoin/github-project-lines-counter/pull/7) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
+4. 🎉 Merged PR [#31](https://github.com/gantoin/gantoin.astro/pull/31) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+5. 🎉 Merged PR [#30](https://github.com/gantoin/gantoin.astro/pull/30) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
