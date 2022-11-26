@@ -56,11 +56,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/gantoin/TwitchClip2Vertical/pull/11) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-2. 🎉 Merged PR [#10](https://github.com/gantoin/TwitchClip2Vertical/pull/10) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-3. 🎉 Merged PR [#9](https://github.com/gantoin/quizzy.ua/pull/9) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
-4. 🎉 Merged PR [#1](https://github.com/gantoin/gantoin/pull/1) in [gantoin/gantoin](https://github.com/gantoin/gantoin)
-5. 🎉 Merged PR [#21](https://github.com/gantoin/gantoin.astro/pull/21) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+1. 🎉 Merged PR [#11](https://github.com/gantoin/5-ukrainian-words-per-day/pull/11) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
+2. 🎉 Merged PR [#11](https://github.com/gantoin/TwitchClip2Vertical/pull/11) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+3. 🎉 Merged PR [#10](https://github.com/gantoin/TwitchClip2Vertical/pull/10) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+4. 🎉 Merged PR [#9](https://github.com/gantoin/quizzy.ua/pull/9) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
+5. 🎉 Merged PR [#1](https://github.com/gantoin/gantoin/pull/1) in [gantoin/gantoin](https://github.com/gantoin/gantoin)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
