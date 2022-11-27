@@ -56,11 +56,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/gantoin/gantoin/pull/2) in [gantoin/gantoin](https://github.com/gantoin/gantoin)
-2. 🎉 Merged PR [#11](https://github.com/gantoin/5-ukrainian-words-per-day/pull/11) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
-3. 🎉 Merged PR [#11](https://github.com/gantoin/TwitchClip2Vertical/pull/11) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-4. 🎉 Merged PR [#10](https://github.com/gantoin/TwitchClip2Vertical/pull/10) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-5. 🎉 Merged PR [#9](https://github.com/gantoin/quizzy.ua/pull/9) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
+1. 💪 Opened PR [#161](https://github.com/bdebon/choiceof.dev/pull/161) in [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev)
+2. 🎉 Merged PR [#2](https://github.com/gantoin/gantoin/pull/2) in [gantoin/gantoin](https://github.com/gantoin/gantoin)
+3. 🎉 Merged PR [#11](https://github.com/gantoin/5-ukrainian-words-per-day/pull/11) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
+4. 🎉 Merged PR [#11](https://github.com/gantoin/TwitchClip2Vertical/pull/11) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+5. 🎉 Merged PR [#10](https://github.com/gantoin/TwitchClip2Vertical/pull/10) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
