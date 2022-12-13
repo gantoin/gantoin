@@ -56,11 +56,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/gantoin/gantoin.astro/pull/34) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-2. 🎉 Merged PR [#38](https://github.com/gantoin/gantoin.astro/pull/38) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-3. 🎉 Merged PR [#37](https://github.com/gantoin/gantoin.astro/pull/37) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
-4. 🎉 Merged PR [#10](https://github.com/gantoin/9gag-to-videos/pull/10) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
-5. 🎉 Merged PR [#14](https://github.com/gantoin/gantoin.astro/pull/14) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+1. 🎉 Merged PR [#40](https://github.com/gantoin/gantoin.astro/pull/40) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+2. 🎉 Merged PR [#34](https://github.com/gantoin/gantoin.astro/pull/34) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+3. 🎉 Merged PR [#38](https://github.com/gantoin/gantoin.astro/pull/38) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+4. 🎉 Merged PR [#37](https://github.com/gantoin/gantoin.astro/pull/37) in [gantoin/gantoin.astro](https://github.com/gantoin/gantoin.astro)
+5. 🎉 Merged PR [#10](https://github.com/gantoin/9gag-to-videos/pull/10) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
