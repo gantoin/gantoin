@@ -56,11 +56,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/gantoin/TwitchClip2Vertical/pull/13) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-2. 🎉 Merged PR [#12](https://github.com/gantoin/TwitchClip2Vertical/pull/12) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-3. 🎉 Merged PR [#11](https://github.com/gantoin/quizzy.ua/pull/11) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
-4. 🎉 Merged PR [#12](https://github.com/gantoin/5-ukrainian-words-per-day/pull/12) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
-5. 🎉 Merged PR [#12](https://github.com/gantoin/9gag-to-videos/pull/12) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
+1. 💪 Opened PR [#2312](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2312) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Opened issue [#6320](https://github.com/EddieHubCommunity/support/issues/6320) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#1](https://github.com/gantoin/gantoin-blog/pull/1) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+4. 🎉 Merged PR [#13](https://github.com/gantoin/TwitchClip2Vertical/pull/13) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+5. 🎉 Merged PR [#12](https://github.com/gantoin/TwitchClip2Vertical/pull/12) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
