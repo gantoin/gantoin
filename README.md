@@ -10,8 +10,8 @@ Contact me here: https://gantoin.webflow.io/contact
 -->
 Actually:
 
-- 🌍 I’m currently working on my new [website](https://gantoin.webflow.io/)
-- ☕️ I’m currently learning Kotlin
+- 🌍 I’m currently working on an OCR tool
+- ☕️ I’m currently learning Vaadin
 - 🐦 I use sometimes Twitter [here](https://twitter.com/gant0in)
 - 📫 Reach me by mail: [gantoin@pm.me](mailto:gantoin@pm.me)
 
