@@ -56,11 +56,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/gantoin/gantoin-blog/issues/18) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-2. ❗️ Opened issue [#17](https://github.com/gantoin/gantoin-blog/issues/17) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-3. ❗️ Opened issue [#16](https://github.com/gantoin/gantoin-blog/issues/16) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-4. ❗️ Opened issue [#15](https://github.com/gantoin/gantoin-blog/issues/15) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-5. ❗️ Opened issue [#14](https://github.com/gantoin/gantoin-blog/issues/14) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+1. ❗️ Opened issue [#27](https://github.com/maciejwalkowiak/just/issues/27) in [maciejwalkowiak/just](https://github.com/maciejwalkowiak/just)
+2. ❗️ Opened issue [#18](https://github.com/gantoin/gantoin-blog/issues/18) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+3. ❗️ Opened issue [#17](https://github.com/gantoin/gantoin-blog/issues/17) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+4. ❗️ Opened issue [#16](https://github.com/gantoin/gantoin-blog/issues/16) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+5. ❗️ Opened issue [#15](https://github.com/gantoin/gantoin-blog/issues/15) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
