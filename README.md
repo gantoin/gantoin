@@ -56,11 +56,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/maciejwalkowiak/just/issues/27) in [maciejwalkowiak/just](https://github.com/maciejwalkowiak/just)
-2. ❗️ Opened issue [#27](https://github.com/maciejwalkowiak/just/issues/27) in [maciejwalkowiak/just](https://github.com/maciejwalkowiak/just)
-3. ❗️ Opened issue [#18](https://github.com/gantoin/gantoin-blog/issues/18) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-4. ❗️ Opened issue [#17](https://github.com/gantoin/gantoin-blog/issues/17) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-5. ❗️ Opened issue [#16](https://github.com/gantoin/gantoin-blog/issues/16) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+1. 🎉 Merged PR [#3](https://github.com/gantoin/quizzy.ua/pull/3) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
+2. 🎉 Merged PR [#13](https://github.com/gantoin/5-ukrainian-words-per-day/pull/13) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
+3. 🗣 Commented on [#27](https://github.com/maciejwalkowiak/just/issues/27) in [maciejwalkowiak/just](https://github.com/maciejwalkowiak/just)
+4. ❗️ Opened issue [#27](https://github.com/maciejwalkowiak/just/issues/27) in [maciejwalkowiak/just](https://github.com/maciejwalkowiak/just)
+5. ❗️ Opened issue [#18](https://github.com/gantoin/gantoin-blog/issues/18) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
