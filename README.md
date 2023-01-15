@@ -55,11 +55,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/gantoin/TwitchClip2Vertical/pull/15) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-2. 🎉 Merged PR [#12](https://github.com/gantoin/gantoin-blog/pull/12) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-3. ❗️ Closed issue [#19](https://github.com/gantoin/gantoin-blog/issues/19) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-4. 🎉 Merged PR [#14](https://github.com/gantoin/TwitchClip2Vertical/pull/14) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-5. ❗️ Closed issue [#14](https://github.com/gantoin/gantoin-blog/issues/14) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+1. 🎉 Merged PR [#14](https://github.com/gantoin/9gag-to-videos/pull/14) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
+2. 🎉 Merged PR [#15](https://github.com/gantoin/TwitchClip2Vertical/pull/15) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+3. 🎉 Merged PR [#12](https://github.com/gantoin/gantoin-blog/pull/12) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+4. ❗️ Closed issue [#19](https://github.com/gantoin/gantoin-blog/issues/19) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+5. 🎉 Merged PR [#14](https://github.com/gantoin/TwitchClip2Vertical/pull/14) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
