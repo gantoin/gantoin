@@ -2,8 +2,6 @@
 
 I'm mainly experienced in Java back-end development and can do front-end with React, Angular, or Ext JS. I'm looking for challenging assignments in an exciting industry to implement my Java skills and improve my JavaScript skills.
 
-Contact me here: https://gantoin.webflow.io/contact
-
 <!--
 **MikeCodeur/MikeCodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
