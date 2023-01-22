@@ -41,11 +41,11 @@ Actually:
 ### ✏️ My blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🇫🇷 Comment connecter plusieurs data sources à une application Java avec Hibernate ?](https://gantoin.webflow.io/posts/comment-connecter-plusieurs-data-sources-a-une-application-java-avec-hibernate)
-- [☕️ Hexagonal architecture on java applications](https://gantoin.webflow.io/posts/hexagonal-architecture-on-java-applications)
-- [🤖 I fully automatized a Youtube channel](https://gantoin.webflow.io/posts/i-fully-automatized-a-youtube-channel)
-- [🇫🇷 Aperçu de GitHub Code Search](https://gantoin.webflow.io/posts/apercu-de-github-code-search)
-- [🎨 How I created a Twitter bot which paints like Van Gogh](https://gantoin.webflow.io/posts/a-bot-paints-like-van-gogh)
+- [🐳 How to run &#39;landoop/fast-da...](https://gantoin.github.io//blog/2023/9f370fd846eeeec332932ceb23c5849e.html)
+- [🤖 How to use ChatGPT API in y...](https://gantoin.github.io//blog/2023/190684c344bb70e5c5f9f2339c7be6ed.html)
+- [📌 Configure Twitch API OAuth2...](https://gantoin.github.io//blog/2023/b8ac42b8bc2daeddf90278569b07b93b.html)
+- [🧷 How I became a FullStack Ja...](https://gantoin.github.io//blog/2023/8f3c78932057d730b351c17b79770e8c.html)
+- [☂️ How to plug your Umbrel&#39;s N...](https://gantoin.github.io//blog/2023/d619467f6d9574cddf0072fb9f9f70f6.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Recent GitHub Activity
