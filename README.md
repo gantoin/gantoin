@@ -50,11 +50,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13306](https://github.com/eugenp/tutorials/pull/13306) in [eugenp/tutorials](https://github.com/eugenp/tutorials)
-2. 🎉 Merged PR [#14](https://github.com/gantoin/9gag-to-videos/pull/14) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
-3. 🎉 Merged PR [#15](https://github.com/gantoin/TwitchClip2Vertical/pull/15) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
-4. 🎉 Merged PR [#12](https://github.com/gantoin/gantoin-blog/pull/12) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-5. ❗️ Closed issue [#19](https://github.com/gantoin/gantoin-blog/issues/19) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
+1. ❗️ Opened issue [#2](https://github.com/gantoin/gantoin.github.io/issues/2) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
+2. ❗️ Opened issue [#1](https://github.com/gantoin/gantoin.github.io/issues/1) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
+3. 🎉 Merged PR [#15](https://github.com/gantoin/5-ukrainian-words-per-day/pull/15) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
+4. 💪 Opened PR [#13306](https://github.com/eugenp/tutorials/pull/13306) in [eugenp/tutorials](https://github.com/eugenp/tutorials)
+5. 🎉 Merged PR [#14](https://github.com/gantoin/9gag-to-videos/pull/14) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
