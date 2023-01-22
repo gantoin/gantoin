@@ -11,6 +11,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Lorenzo0111/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.FEED_TOKEN }}
+        with:
+          COMMIT_MSG: '🤖[Automated] Update README with GitHub Activity'
+          COMMIT_NAME: 'gantoin'
+          COMMIT_EMAIL: 'gantoin@pm.me'
