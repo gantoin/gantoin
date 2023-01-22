@@ -14,4 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://gantoin.github.io/feed.xml"
+          committer_username: gantoin
+          committer_email: gantoin@pm.me
+          commit_message: "🤖[Automated] Update README with Last Blog Post"
 
