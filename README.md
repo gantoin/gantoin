@@ -50,11 +50,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/gantoin/gantoin.github.io/issues/7) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
-2. 🗣 Commented on [#7](https://github.com/gantoin/gantoin.github.io/issues/7) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
-3. 🎉 Merged PR [#8](https://github.com/gantoin/gantoin.github.io/pull/8) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
-4. 💪 Opened PR [#8](https://github.com/gantoin/gantoin.github.io/pull/8) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
-5. ❗️ Closed issue [#2](https://github.com/gantoin/gantoin.github.io/issues/2) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
+1. ❗️ Closed issue [#4](https://github.com/gantoin/gantoin.github.io/issues/4) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
+2. 🎉 Merged PR [#9](https://github.com/gantoin/gantoin.github.io/pull/9) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
+3. 🗣 Commented on [#4](https://github.com/gantoin/gantoin.github.io/issues/4) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
+4. 💪 Opened PR [#9](https://github.com/gantoin/gantoin.github.io/pull/9) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
+5. ❗️ Closed issue [#7](https://github.com/gantoin/gantoin.github.io/issues/7) in [gantoin/gantoin.github.io](https://github.com/gantoin/gantoin.github.io)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
