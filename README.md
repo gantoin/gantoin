@@ -41,11 +41,11 @@ Actually:
 ### ✏️ My blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚌 Make your Kafka bus more robust with Apache Avro &amp; Confluent Schema Registry](https://gantoin.github.io//blog/2023/7d0dd6a8a41688208218958ef9cc9b8d.html)
 - [🐳 How to run &#39;landoop/fast-data-dev&#39; on Mac M1?](https://gantoin.github.io//blog/2023/9f370fd846eeeec332932ceb23c5849e.html)
 - [🤖 How to use ChatGPT API in your Java application?](https://gantoin.github.io//blog/2023/190684c344bb70e5c5f9f2339c7be6ed.html)
 - [📌 Configure Twitch API OAuth2 provider on a Spring Security app](https://gantoin.github.io//blog/2023/b8ac42b8bc2daeddf90278569b07b93b.html)
 - [💭 How I became a FullStack Java developer with Vaadin?](https://gantoin.github.io//blog/2023/8f3c78932057d730b351c17b79770e8c.html)
-- [☂️ How to plug your Umbrel&#39;s Nextcloud into the official Nextcloud mobile app? &lpar;...](https://gantoin.github.io//blog/2023/d619467f6d9574cddf0072fb9f9f70f6.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Recent GitHub Activity
