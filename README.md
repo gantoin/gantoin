@@ -4,8 +4,8 @@ I'm mainly experienced in Java back-end development and can do front-end with Re
 
 Actually:
 
-- 🌍 I’m currently working on an OCR tool
-- ☕️ I’m currently learning Vaadin
+- 🌍 I’m currently working on Apache Avro & Confluent Schema Registry
+- ☕️ I’m currently learning Jbake
 - 🐦 I use sometimes Twitter [here](https://twitter.com/gant0in)
 - 📫 Reach me by mail: [gantoin@pm.me](mailto:gantoin@pm.me)
 
