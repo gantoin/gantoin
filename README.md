@@ -12,8 +12,8 @@ Actually:
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://gantoin.webflow.io#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://gantoin.webflow.io#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://gantoin.github.io#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://gantoin.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/youtube-light.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrw#gh-light-mode-only)
 [![img_contact](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrw#gh-dark-mode-only)
