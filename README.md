@@ -52,11 +52,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/gantoin/9gag-to-videos/pull/17) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
-2. 🎉 Merged PR [#11](https://github.com/gantoin/github-project-lines-counter/pull/11) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
-3. 🎉 Merged PR [#20](https://github.com/gantoin/gantoin-blog/pull/20) in [gantoin/gantoin-blog](https://github.com/gantoin/gantoin-blog)
-4. 🎉 Merged PR [#2](https://github.com/gantoin/code-with-quarkus/pull/2) in [gantoin/code-with-quarkus](https://github.com/gantoin/code-with-quarkus)
-5. 🎉 Merged PR [#15](https://github.com/gantoin/9gag-to-videos/pull/15) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
+1. 🎉 Merged PR [#17](https://github.com/gantoin/TwitchClip2Vertical/pull/17) in [gantoin/TwitchClip2Vertical](https://github.com/gantoin/TwitchClip2Vertical)
+2. 🎉 Merged PR [#19](https://github.com/gantoin/9gag-to-videos/pull/19) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
+3. 🎉 Merged PR [#8](https://github.com/gantoin/code-with-quarkus/pull/8) in [gantoin/code-with-quarkus](https://github.com/gantoin/code-with-quarkus)
+4. 🎉 Merged PR [#17](https://github.com/gantoin/9gag-to-videos/pull/17) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
+5. 🎉 Merged PR [#11](https://github.com/gantoin/github-project-lines-counter/pull/11) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
