@@ -52,11 +52,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/gantoin/5-ukrainian-words-per-day/pull/16) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
-2. 🎉 Merged PR [#13](https://github.com/gantoin/quizzy.ua/pull/13) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
-3. 🎉 Merged PR [#10](https://github.com/gantoin/github-project-lines-counter/pull/10) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
-4. 🎉 Merged PR [#18](https://github.com/gantoin/9gag-to-videos/pull/18) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
-5. 🎉 Merged PR [#9](https://github.com/gantoin/code-with-quarkus/pull/9) in [gantoin/code-with-quarkus](https://github.com/gantoin/code-with-quarkus)
+1. 🎉 Merged PR [#23](https://github.com/gantoin/9gag-to-videos/pull/23) in [gantoin/9gag-to-videos](https://github.com/gantoin/9gag-to-videos)
+2. 🎉 Merged PR [#14](https://github.com/gantoin/code-with-quarkus/pull/14) in [gantoin/code-with-quarkus](https://github.com/gantoin/code-with-quarkus)
+3. 🎉 Merged PR [#16](https://github.com/gantoin/5-ukrainian-words-per-day/pull/16) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
+4. 🎉 Merged PR [#13](https://github.com/gantoin/quizzy.ua/pull/13) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
+5. 🎉 Merged PR [#10](https://github.com/gantoin/github-project-lines-counter/pull/10) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
