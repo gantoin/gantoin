@@ -1,4 +1,4 @@
-# Antoine Gauthier [@gantoin](https://github.com/gantoin) - freelance developer
+# Antoine Gauthier - Full stack developer / Java consultant
 
 I'm mainly experienced in Java back-end development and can do front-end with React, Angular, or Ext JS. I'm looking for challenging assignments in an exciting industry to implement my Java skills and improve my JavaScript skills.
 
