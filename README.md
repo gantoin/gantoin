@@ -1,14 +1,6 @@
-# Antoine Gauthier - Full stack developer / Java consultant
+# Antoine Gauthier - Full-Stack engineer (Java/Angular)
 
-I'm mainly experienced in Java back-end development and can do front-end with React, Angular, or Ext JS. I'm looking for challenging assignments in an exciting industry to implement my Java skills and improve my JavaScript skills.
-
-Actually:
-
-- 🌍 I’m currently working on Apache Avro & Confluent Schema Registry
-- ☕️ I’m currently learning Jbake
-- 🐦 I use sometimes Twitter [here](https://twitter.com/gant0in)
 - 📫 Reach me by mail: [gantoin@pm.me](mailto:gantoin@pm.me)
-
 
 ### Connect with me:
 
@@ -49,15 +41,6 @@ Actually:
 - [📌 Configure Twitch API OAuth2 provider on a Spring Security app](https://gantoin.github.io//blog/2023/b8ac42b8bc2daeddf90278569b07b93b.html)
 - [💭 How I became a FullStack Java developer with Vaadin?](https://gantoin.github.io//blog/2023/8f3c78932057d730b351c17b79770e8c.html)
 <!-- BLOG-POST-LIST:END -->
-
-### 🔥 Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Aiven-Labs/spring-hibernate-mysql-workshop/pull/2) in [Aiven-Labs/spring-hibernate-mysql-workshop](https://github.com/Aiven-Labs/spring-hibernate-mysql-workshop)
-2. 🎉 Merged PR [#14](https://github.com/gantoin/code-with-quarkus/pull/14) in [gantoin/code-with-quarkus](https://github.com/gantoin/code-with-quarkus)
-3. 🎉 Merged PR [#16](https://github.com/gantoin/5-ukrainian-words-per-day/pull/16) in [gantoin/5-ukrainian-words-per-day](https://github.com/gantoin/5-ukrainian-words-per-day)
-4. 🎉 Merged PR [#13](https://github.com/gantoin/quizzy.ua/pull/13) in [gantoin/quizzy.ua](https://github.com/gantoin/quizzy.ua)
-5. 🎉 Merged PR [#10](https://github.com/gantoin/github-project-lines-counter/pull/10) in [gantoin/github-project-lines-counter](https://github.com/gantoin/github-project-lines-counter)
-<!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
 
