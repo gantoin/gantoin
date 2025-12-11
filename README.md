@@ -1,40 +1,59 @@
-# Antoine Gauthier - Full-Stack engineer (Java/Angular)
+# Antoine Gauthier
 
-- 📫 Reach me by mail: [gantoin@pm.me](mailto:gantoin@pm.me)
+**Full Stack Java/Angular Developer | Tech Lead | Technical Author**
 
-### Connect with me:
+Experienced full stack developer with 8 years of expertise, specialized in Java backend development (Spring Boot) and microservices architectures. Expert in cloud and DevOps technologies (Kubernetes, Docker, GitLab CI), with strong proficiency in modern frontend technologies, particularly Angular.
 
-[![img_contact](./img/globe-light.svg)](https://gantoin.github.io#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://gantoin.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrw#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCRj2b3SVmPRRG5X5psJ8nrw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/gant0in#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/gant0in#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/antoine-gauthier-767218a9#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/antoine-gauthier-767218a9#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-gauthier-767218a9)
+[![Website](https://img.shields.io/badge/java--facile.fr-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://java-facile.fr)
 
-### Languages and Tools:
+---
 
-<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+### Published Books
 
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Apache Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+| | Title | Publisher | Status |
+|---|-------|-----------|--------|
+| **Java - Language Fundamentals** | *Java - Les fondamentaux du langage* | Editions ENI | September 2025 |
+| **Jakarta EE - Web Application Development in Java** | *Jakarta EE - Développez des applications web en Java* | Editions ENI | Coming September 2026 |
 
-<br />
+---
 
-### ⭐ GitHub Stats
+### Tech Stack
 
-![Gantoin's github stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark)
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-![Gantoin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
+**Architecture & Messaging**
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+**DevOps & Cloud**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Monitoring**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
 
