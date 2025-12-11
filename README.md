@@ -13,7 +13,7 @@ Experienced full stack developer with 8 years of expertise, specialized in Java 
 
 | | Title | Publisher | Status |
 |---|-------|-----------|--------|
-| **Java - Language Fundamentals** | *Java - Les fondamentaux du langage* | Editions ENI | September 2025 |
+| **Java - Language Fundamentals** | [*Java - Les fondamentaux du langage*](https://www.editions-eni.fr/livre/java-les-fondamentaux-du-langage-avec-exercices-pratiques-et-corriges-2e-edition-9782409051241) | Editions ENI | September 2025 |
 | **Jakarta EE - Web Application Development in Java** | *Jakarta EE - Développez des applications web en Java* | Editions ENI | Coming September 2026 |
 
 ---
@@ -48,12 +48,4 @@ Experienced full stack developer with 8 years of expertise, specialized in Java 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gantoin&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gantoin&layout=compact&theme=dark)
 
