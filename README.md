@@ -14,7 +14,7 @@ Experienced full stack developer with 8 years of expertise, specialized in Java 
 | | Title | Publisher | Status |
 |---|-------|-----------|--------|
 | **Java - Language Fundamentals** | [*Java - Les fondamentaux du langage*](https://www.editions-eni.fr/livre/java-les-fondamentaux-du-langage-avec-exercices-pratiques-et-corriges-2e-edition-9782409051241) | Editions ENI | September 2025 |
-| **Jakarta EE - Web Application Development in Java** | *Jakarta EE - Développez des applications web en Java* | Editions ENI | Coming September 2026 |
+| **Jakarta EE - Web Application Development in Java** | *Jakarta EE - Développez des applications web en Java* | Editions ENI | Coming Janvier 2027 |
 
 ---
 
